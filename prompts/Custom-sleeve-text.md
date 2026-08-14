@@ -1,5 +1,5 @@
 ---
-name: Prompt Personalization Text ở tay áo Sweatshirt
+name: Personalization Text ở tay áo Sweatshirt
 tags:
   - embroidery
   - sweatshirt

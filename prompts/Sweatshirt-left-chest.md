@@ -1,5 +1,5 @@
 ---
-name: Prompt thiết kế ngực trái Sweatshirt
+name: Thiết kế trên ngực trái Sweatshirt
 tags:
   - embroidery
   - sweatshirt

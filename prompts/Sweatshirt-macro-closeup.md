@@ -1,5 +1,5 @@
 ---
-name: Prompt góc chụp cận
+name: Góc chụp cận
 tags:
   - embroidery
   - sweatshirt

@@ -3,7 +3,7 @@
   "prompts": [
     {
       "id": "Custom-sleeve-text",
-      "name": "Prompt Personalization Text ở tay áo Sweatshirt",
+      "name": "Personalization Text ở tay áo Sweatshirt",
       "tags": [
         "embroidery",
         "sweatshirt",
@@ -17,7 +17,7 @@
     },
     {
       "id": "Stack of neatly folded sweatshirts",
-      "name": "Prompt áo Sweatshirt gấp gọn xếp chồng",
+      "name": "Sweatshirt gấp gọn xếp chồng",
       "tags": [
         "embroidery",
         "sweatshirt",
@@ -31,7 +31,7 @@
     },
     {
       "id": "Sweatshirt-left-chest",
-      "name": "Prompt thiết kế ngực trái Sweatshirt",
+      "name": "Thiết kế trên ngực trái Sweatshirt",
       "tags": [
         "embroidery",
         "sweatshirt",
@@ -45,7 +45,7 @@
     },
     {
       "id": "Sweatshirt-macro-closeup",
-      "name": "Prompt góc chụp cận",
+      "name": "Góc chụp cận",
       "tags": [
         "embroidery",
         "sweatshirt",

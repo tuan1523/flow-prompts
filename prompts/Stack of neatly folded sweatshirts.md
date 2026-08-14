@@ -1,5 +1,5 @@
 ---
-name: Prompt áo Sweatshirt gấp gọn xếp chồng
+name: Sweatshirt gấp gọn xếp chồng
 tags:
   - embroidery
   - sweatshirt
