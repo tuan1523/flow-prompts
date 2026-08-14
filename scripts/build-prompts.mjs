@@ -106,8 +106,5 @@ if (errors.length) {
   process.exit(1);
 }
 
-writeFileSync(
-  OUT,
-  JSON.stringify({ version: 1, generatedAt: new Date().toISOString(), prompts }, null, 2)
-);
+writeFileSync(OUT, JSON.stringify({ version: 1, prompts }, null, 2));
 console.log(`✅ ${prompts.length} prompt → prompts.json`);
