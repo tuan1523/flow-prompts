@@ -23,11 +23,19 @@ function parseFrontmatter(raw, file) {
   const head = raw.slice(3, end).trim();
   const body = raw.slice(end + 4).replace(/^\r?\n/, "");
   const meta = {};
+  let lastKey = null;
   for (const line of head.split("\n")) {
+    const item = line.match(/^\s*-\s+(.+)$/);
+    if (item && lastKey) {
+      if (!Array.isArray(meta[lastKey])) meta[lastKey] = [];
+      meta[lastKey].push(item[1].trim());
+      continue;
+    }
     const m = line.match(/^(\w[\w-]*):\s*(.*)$/);
     if (!m) continue;
     let [, key, value] = m;
     value = value.trim();
+    lastKey = value === "" ? key : null;
     if (value.startsWith("[") && value.endsWith("]")) {
       meta[key] = value
         .slice(1, -1)

@@ -1,10 +1,14 @@
 ---
 name: Sweatshirt embroidery mockup
-tags: [embroidery, sweatshirt, etsy, halloween]
-preview: images/sweatshirt-embroidery.png
+tags:
+  - embroidery
+  - sweatshirt
+  - etsy
+  - halloween
+preview: images/sweatshirt-embroidery-v2.jpg
 note: Dùng kèm file design PNG nền trong suốt, đính kèm thủ công vào Flow
 ---
-![[CleanShot 2026-08-14 at 10.15.06@2x.png]]
+![[sweatshirt-embroidery-v2.jpg]]
 
 Create a photorealistic mockup of a cozy folded crewneck sweatshirt with the attached design shown as real thread embroidery on the chest.
 

@@ -1,6 +1,10 @@
 ---
-name: Sweatshirt embroidery — macro close-up
-tags: [embroidery, sweatshirt, etsy, closeup]
+name: Prompt góc chụp cận
+tags:
+  - embroidery
+  - sweatshirt
+  - etsy
+  - closeup
 preview: images/sweatshirt-macro-closeup.jpg
 note: Dùng kèm file design PNG nền trong suốt, đính kèm thủ công vào Flow
 ---
