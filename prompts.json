@@ -2,7 +2,35 @@
   "version": 1,
   "prompts": [
     {
-      "id": "Prompt góc chụp cận",
+      "id": "Stack of neatly folded sweatshirts",
+      "name": "Prompt áo Sweatshirt gấp gọn xếp chồng",
+      "tags": [
+        "embroidery",
+        "sweatshirt",
+        "etsy",
+        "closeup"
+      ],
+      "note": "Dùng kèm file design PNG nền trong suốt, đính kèm thủ công vào Flow",
+      "preview": "images/sweatshirt-stack.jpg",
+      "variableCount": 2,
+      "body": "Create a photorealistic lifestyle mockup of a **stack of neatly folded crewneck sweatshirts** (3–4 sweatshirts stacked on top of each other), with the attached design shown as **real thread embroidery** along the **folded front edge** of each sweatshirt (the way embroidered text appears on a folded sweatshirt in Etsy product photos).\n\n**Reproduce the attached design faithfully:**  \n— Treat the attached image as the EXACT embroidery pattern. Reproduce every letter, word, number and spelling EXACTLY as in the attached image — do not alter, re-spell, add, or drop any text. Keep the same fonts/lettering style, the same floral/wildflower letter styling, the same icons, shapes, layout, spacing and proportions.  \n— Keep the exact same thread colors as in the attached design.  \n— Convert only the surface/material into realistic raised thread embroidery (satin/fill stitches, visible thread texture, tiny 3D floral stitches) that follows the fabric's folds and lighting.  \n— Preserve the original aspect ratio — do not stretch, squash, or distort the design.\n\n**Layout:**  \n— Fold each sweatshirt so the embroidered design sits centered and fully readable along the front folded edge.  \n— Stack the sweatshirts in a tidy pile, slightly offset so each embroidered design is visible.  \n— Give each sweatshirt in the stack a **different color**, picking from: {sport grey|Xám sport / dusty pink|Hồng bụi / sand|Cát / beige|Be / forest green|Xanh rêu / military green|Xanh quân đội / sage|Xanh sage / navy|Xanh than / light blue|Xanh nhạt / rust|Nâu gỉ / maroon|Đỏ mận / mustard|Vàng mù tạt / teal|Xanh cổ vịt / lilac|Tím lilac / cream|Kem}.\n\n**Randomize the background/scene (pick ONE per image so each result looks different):**  \n{rustic wooden table with wooden thread spools, embroidery scissors, needles and a few lavender sprigs|Bàn gỗ mộc — suốt chỉ, kéo thêu, oải hương / cozy craft room with shelves of colorful fabric bolts and thread, soft window light|Phòng thủ công — kệ vải, chỉ màu / sunny garden with a metal arch, roses, daisies and a terracotta plant pot|Vườn nắng — vòm hoa hồng, cúc / bright wooden table by a window with a potted plant and embroidery floss cards|Bàn gỗ bên cửa sổ — cây cảnh, chỉ thêu / linen surface with dried flowers and vintage sewing tools|Nền linen — hoa khô, đồ khâu vintage}\n\nStyle: warm natural window light, soft shadows, shallow depth of field, cozy handmade/artisan feel, photorealistic Etsy-style product photography. The embroidered designs stay sharp and are the clear focal point, faithful to the attached artwork."
+    },
+    {
+      "id": "Sweatshirt-left-chest",
+      "name": "Prompt thiết kế ngực trái Sweatshirt",
+      "tags": [
+        "embroidery",
+        "sweatshirt",
+        "etsy",
+        "closeup"
+      ],
+      "note": "Dùng kèm file design PNG nền trong suốt, đính kèm thủ công vào Flow",
+      "preview": "images/sweatshirt-left-chest.jpg",
+      "variableCount": 3,
+      "body": "Create a photorealistic mockup of a cozy folded crewneck sweatshirt with the attached design shown as real thread embroidery on the **LEFT CHEST**.\n\n**Placement & scale (very important):**  \n— Place the design on the **wearer's left chest**, in the standard small \"left-chest logo\" position (the pocket area), same as a real embroidered brand logo.  \n— Keep the design **SMALL** — roughly the size of a palm, about 8–12 cm wide, occupying only a small area of the chest. Do NOT enlarge it to fill or center it across the whole chest.  \n— Preserve the **original aspect ratio and internal proportions** of the artwork exactly — do not stretch, squash, crop, or distort it. Scale it down as a whole.\n\nTreat the attached image as the EXACT embroidery pattern to reproduce stitch-for-stitch. Convert only the SURFACE/MATERIAL into realistic stitched thread (raised satin/fill stitches, visible thread texture) — but do NOT change what the design shows:  \n— Reproduce every letter, word, number and spelling EXACTLY as in the attached image. Do not alter, re-spell, add, or drop any text. Keep the same fonts/lettering style.  \n— Keep the exact same icons, shapes, layout, arrangement, spacing and proportions.  \n— Keep the exact same thread colors as the colors in the attached design.  \n— The embroidery must be a faithful 1:1 copy of the attached artwork, only now made of thread and following the fabric's folds and lighting.\n\nRandomize everything AROUND the design so each result looks different (pick one of each):  \n— Sweatshirt color: {red|Đỏ / orange|Cam / sand|Cát / beige|Be / white|Trắng / sport grey|Xám sport / black|Đen / grey|Xám / light pink|Hồng nhạt / light blue|Xanh nhạt / chocolate|Sô-cô-la / brown|Nâu / maroon|Đỏ mận / carolina blue|Xanh carolina / forest green|Xanh rêu / military green|Xanh quân đội / navy|Xanh than}  \n— Camera distance: {close-up showing thread texture|Cận cảnh thấy sợi chỉ / medium folded flat-lay|Trung cảnh gấp flat-lay / wider styled scene with props|Toàn cảnh có đạo cụ}  \n— Surface & scene: {rustic wood table|Bàn gỗ mộc / linen cloth|Vải linen / lace doily|Khăn ren}  \n— Props (a few, cozy seasonal): {vintage books, brass compass, pinecones, small pumpkins, lit candle, ceramic mug, felt hat, dried flowers, acorns}\n\nStyle: warm natural window light, soft shadows, shallow depth of field, photorealistic cozy lifestyle product photography, Etsy-style. The embroidered design stays the clear focal point (even though small) and remains faithful to the attached artwork."
+    },
+    {
+      "id": "Sweatshirt-macro-closeup",
       "name": "Prompt góc chụp cận",
       "tags": [
         "embroidery",
