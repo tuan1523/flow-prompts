@@ -31,6 +31,10 @@ Cụm `{a / b / c}` trong prompt sẽ hiện thành các chip bật/tắt trong 
 Người dùng chọn giá trị muốn giữ; chọn đúng 1 giá trị thì extension điền
 thẳng giá trị đó (bỏ ngoặc), chọn nhiều thì giữ dạng `{a / b}` để AI random.
 
+Nhãn tiếng Việt cho chip (tùy chọn): viết `giá trị|nhãn`, ví dụ
+`{red|Đỏ / navy|Xanh than}` — chip hiển thị "Đỏ", prompt điền vào Flow
+vẫn là "red" (AI luôn nhận tiếng Anh). Không có `|` thì chip hiện nguyên giá trị.
+
 ## Quy ước đặt tên
 
 - Tên file: không dấu, gạch nối, ví dụ `mug-cozy-flatlay.md`

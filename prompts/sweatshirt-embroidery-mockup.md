@@ -4,7 +4,7 @@ tags: [embroidery, sweatshirt, etsy, halloween]
 preview: images/sweatshirt-embroidery.png
 note: Dùng kèm file design PNG nền trong suốt, đính kèm thủ công vào Flow
 ---
-![[sweatshirt-embroidery.png]]
+![[CleanShot 2026-08-14 at 10.15.06@2x.png]]
 
 Create a photorealistic mockup of a cozy folded crewneck sweatshirt with the attached design shown as real thread embroidery on the chest.
 
@@ -15,9 +15,9 @@ Treat the attached image as the EXACT embroidery pattern to reproduce stitch-for
 — The embroidery must be a faithful 1:1 copy of the attached artwork, only now made of thread and following the fabric's folds and lighting.
 
 Randomize everything AROUND the design so each result looks different (pick one of each):
-— Sweatshirt color: {red / orange / sand / beige / white / sport grey / black / grey / light pink / light blue / chocolate / brown / maroon / carolina blue / forest green / military green / navy}
-— Camera distance: {close-up showing thread texture / medium folded flat-lay / wider styled scene with props}
-— Surface & scene: {rustic wood table / linen cloth / knit blanket / sunny windowsill with autumn leaves / lace doily}
+— Sweatshirt color: {red|Đỏ / orange|Cam / sand|Cát / beige|Be / white|Trắng / sport grey|Xám sport / black|Đen / grey|Xám / light pink|Hồng nhạt / light blue|Xanh nhạt / chocolate|Sô-cô-la / brown|Nâu / maroon|Đỏ mận / carolina blue|Xanh carolina / forest green|Xanh rêu / military green|Xanh quân đội / navy|Xanh than}
+— Camera distance: {close-up showing thread texture|Cận cảnh thấy sợi chỉ / medium folded flat-lay|Trung cảnh gấp flat-lay / wider styled scene with props|Toàn cảnh có đạo cụ}
+— Surface & scene: {rustic wood table|Bàn gỗ mộc / linen cloth|Vải linen / knit blanket|Chăn len / sunny windowsill with autumn leaves|Bậu cửa sổ nắng lá thu / lace doily|Khăn ren}
 — Props (a few, cozy seasonal): {vintage books, brass compass, pinecones, small pumpkins, lit candle, ceramic mug, felt hat, dried flowers, acorns}
 
 Style: warm natural window light, soft shadows, shallow depth of field, photorealistic cozy lifestyle product photography, Etsy-style. The embroidered design stays the clear focal point and remains faithful to the attached artwork.
