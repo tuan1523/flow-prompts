@@ -4,9 +4,10 @@ tags:
   - embroidery
   - digitize
   - mockup
-preview:
+preview: images/digitize-embroidery.jpg
 note: Dùng kèm artwork 2D đính kèm — chuyển thành design thêu máy tối đa 5 màu chỉ rồi mockup lên áo
 ---
+![[digitize-embroidery.jpg]]
 Convert the attached 2D flat artwork into a PRODUCTION-READY MACHINE EMBROIDERY design, then present it stitched onto a garment mockup.
 
 STEP 1 — DIGITIZE INTO COLOR BLOCKS:
