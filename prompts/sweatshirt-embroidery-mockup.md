@@ -1,5 +1,5 @@
 ---
-name: Sweatshirt embroidery mockup
+name: Tạo mockup thêu có nhiều phụ kiện xung quanh
 tags:
   - embroidery
   - sweatshirt

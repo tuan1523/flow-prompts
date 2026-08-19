@@ -1,12 +1,13 @@
 ---
-name: Mockup thêu clean minimal
+name: Mockup thêu đơn giản sạch
 tags:
   - embroidery
   - mockup
   - minimal
-preview:
+preview: images/mockup-clean-minimal.jpg
 note: Bản clean/minimal — luôn đính kèm file design gốc. Mẹo giữ chữ + cách chạy hàng loạt xem note "Hướng dẫn mockup clean minimal" trong docs
 ---
+![[mockup-clean-minimal.jpg]]
 Create a photorealistic, clean minimal product mockup of a folded {crewneck sweatshirt / hoodie / quarter-zip} in the chosen shirt color, with the attached design reproduced as real thread embroidery on the chest.
 
 — Shirt color: {forest green|Xanh rêu / heather forest|Xanh rêu heather / white|Trắng / cream natural ivory|Kem ngà / sand beige|Be cát / light dusty blue|Xanh bụi nhạt / light pink blush|Hồng phấn / sport grey|Xám sport / oatmeal|Yến mạch / navy|Xanh than / black|Đen / maroon|Đỏ mận / chocolate brown|Nâu sô-cô-la / military green|Xanh quân đội / carolina blue|Xanh carolina}

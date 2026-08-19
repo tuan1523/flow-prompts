@@ -1,5 +1,5 @@
 ---
-name: Số hóa artwork thành thêu máy (5 màu)
+name: Chuyển ảnh 2D thành thêu (5 màu)
 tags:
   - embroidery
   - digitize
