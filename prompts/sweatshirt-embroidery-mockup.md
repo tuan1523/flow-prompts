@@ -25,3 +25,4 @@ Randomize everything AROUND the design so each result looks different (pick one 
 — Props (a few, cozy seasonal): {vintage books, brass compass, pinecones, small pumpkins, lit candle, ceramic mug, felt hat, dried flowers, acorns}
 
 Style: warm natural window light, soft shadows, shallow depth of field, photorealistic cozy lifestyle product photography, Etsy-style. The embroidered design stays the clear focal point and remains faithful to the attached artwork.
+Keep the bottom-right corner of the frame as plain, empty background surface — no props, no fabric edges, no strong texture there.

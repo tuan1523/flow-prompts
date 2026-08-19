@@ -34,3 +34,4 @@ STEP 4 — MOCKUP PRESENTATION:
 - Place the finished embroidery centered on the chest of a folded garment.
 - Top-down flat lay on warm oak wood, soft natural window light from upper left, cozy seasonal props (ceramic mug, candle, dried leaves) softly out of focus.
 - Photorealistic product photograph, shallow depth of field, warm neutral grade, sharp macro texture on the embroidery.
+- Keep the bottom-right corner of the frame as plain, empty background surface — no props, no fabric edges, no strong texture there.
