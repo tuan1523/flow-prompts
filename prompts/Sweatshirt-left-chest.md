@@ -23,7 +23,7 @@ Treat the attached image as the EXACT embroidery pattern to reproduce stitch-for
 — The embroidery must be a faithful 1:1 copy of the attached artwork, only now made of thread and following the fabric's folds and lighting.
 
 Randomize everything AROUND the design so each result looks different (pick one of each):  
-— Sweatshirt color: {red|Đỏ / orange|Cam / sand|Cát / beige|Be / white|Trắng / sport grey|Xám sport / black|Đen / grey|Xám / light pink|Hồng nhạt / light blue|Xanh nhạt / chocolate|Sô-cô-la / brown|Nâu / maroon|Đỏ mận / carolina blue|Xanh carolina / forest green|Xanh rêu / military green|Xanh quân đội / navy|Xanh than}  
+— Sweatshirt color: {red|Đỏ / orange|Cam / sand|Cát / beige|Be / white|Trắng / sport grey|Xám sport / black|Đen / grey|Xám / light pink|Hồng nhạt / light blue|Xanh nhạt / dark chocolate|Nâu sô-cô-la đậm / brown|Nâu / maroon|Đỏ mận / carolina blue|Xanh carolina / forest green|Xanh rêu / military green|Xanh quân đội / navy|Xanh than}  
 — Camera distance: {close-up showing thread texture|Cận cảnh thấy sợi chỉ / medium folded flat-lay|Trung cảnh gấp flat-lay / wider styled scene with props|Toàn cảnh có đạo cụ}  
 — Surface & scene: {rustic wood table|Bàn gỗ mộc / linen cloth|Vải linen / lace doily|Khăn ren}  
 — Props (a few, cozy seasonal): {vintage books, brass compass, pinecones, small pumpkins, lit candle, ceramic mug, felt hat, dried flowers, acorns}

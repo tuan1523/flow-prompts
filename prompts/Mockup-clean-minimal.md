@@ -10,7 +10,7 @@ note: Bản clean/minimal — luôn đính kèm file design gốc. Mẹo giữ c
 ![[mockup-clean-minimal.jpg]]
 Create a photorealistic, clean minimal product mockup of a folded {crewneck sweatshirt / hoodie / quarter-zip} in the chosen shirt color, with the attached design reproduced as real thread embroidery on the chest.
 
-— Shirt color: {forest green|Xanh rêu / heather forest|Xanh rêu heather / white|Trắng / cream natural ivory|Kem ngà / sand beige|Be cát / light dusty blue|Xanh bụi nhạt / light pink blush|Hồng phấn / sport grey|Xám sport / oatmeal|Yến mạch / navy|Xanh than / black|Đen / maroon|Đỏ mận / chocolate brown|Nâu sô-cô-la / military green|Xanh quân đội / carolina blue|Xanh carolina}
+— Shirt color: {red|Đỏ / orange|Cam / sand|Cát / beige|Be / white|Trắng / sport grey|Xám sport / black|Đen / grey|Xám / light pink|Hồng nhạt / light blue|Xanh nhạt / dark chocolate|Nâu sô-cô-la đậm / brown|Nâu / maroon|Đỏ mận / carolina blue|Xanh carolina / forest green|Xanh rêu / military green|Xanh quân đội / navy|Xanh than}
 
 EMBROIDERY — 1:1 FAITHFUL COPY (highest priority):
 Treat the attached image as the EXACT embroidery pattern. Convert ONLY the surface/material into realistic stitched thread — raised satin stitch for lettering, dense fill stitch for solid shapes, visible individual thread strands, slight sheen, subtle needle-hole indentation in the fabric. Do NOT redraw or reinterpret the artwork:

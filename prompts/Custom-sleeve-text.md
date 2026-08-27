@@ -20,7 +20,7 @@ Create a photorealistic flat-lay mockup of **one folded crewneck sweatshirt** _(
 — On the folded **sleeve cuff**, add a small **cursive/script embroidered name(s)**, stacked vertically if more than one name.  
 — Use the name(s) from this list — pick one set per sweatshirt: **{Jacob / Mike, Lucy, John / Emma / Noah, Ava / Liam}**. Spell them EXACTLY as written.
 
-**Sweatshirt color(s):** pick one per shirt from {heather charcoal|Than tiêu / forest green|Xanh rêu / navy|Xanh than / white|Trắng / sand|Cát / beige|Be / maroon|Đỏ mận / sport grey|Xám sport}.
+**Sweatshirt color(s):** pick one per shirt from {grey|Xám / forest green|Xanh rêu / navy|Xanh than / white|Trắng / sand|Cát / beige|Be / maroon|Đỏ mận / sport grey|Xám sport}.
 
 **Scene & props (flat-lay on soft neutral linen):** a woven round placemat under the sweatshirt, plus a few cozy props: {tortoiseshell glasses, small potted succulent, lit candle, a couple of blurred polaroid family photos, ceramic dish}. Arrange them tastefully around the sweatshirt(s).
 
