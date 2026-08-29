@@ -21,8 +21,8 @@ Treat the attached image as the EXACT embroidery pattern to reproduce stitch-for
 Randomize everything AROUND the design so each result looks different (pick one of each):
 — Shirt color: {red|Đỏ / orange|Cam / sand|Cát / beige|Be / white|Trắng / sport grey|Xám sport / black|Đen / grey|Xám / light pink|Hồng nhạt / light blue|Xanh nhạt / dark chocolate|Nâu sô-cô-la đậm / brown|Nâu / maroon|Đỏ mận / carolina blue|Xanh carolina / forest green|Xanh rêu / military green|Xanh quân đội / navy|Xanh than}
 — Camera distance: {close-up showing thread texture|Cận cảnh thấy sợi chỉ / medium folded flat-lay|Trung cảnh gấp flat-lay / wider styled scene with props|Toàn cảnh có đạo cụ}
-— Surface & scene: {rustic wood table|Bàn gỗ mộc / linen cloth|Vải linen / knit blanket|Chăn len / sunny windowsill with autumn leaves|Bậu cửa sổ nắng lá thu / lace doily|Khăn ren}
-— Props (a few, cozy seasonal): {vintage books, brass compass, pinecones, small pumpkins, lit candle, ceramic mug, felt hat, dried flowers, acorns}
+— Surface & scene: {rustic wood table|Bàn gỗ mộc / linen cloth|Vải linen / knit blanket|Chăn len / sunny windowsill with autumn leaves|Bậu cửa sổ nắng lá thu / lace doily|Khăn ren / rustic wooden table with a soft-focus pine garland and warm white fairy lights bokeh in the background|Bàn gỗ + thông + đèn bokeh / chunky cream knit blanket as the surface, warm golden light, blurred fairy lights behind|Chăn len kem + đèn ấm}
+— Props (a few, cozy seasonal): {vintage books, brass compass, pinecones, small pumpkins, lit candle, ceramic mug, felt hat, dried flowers, acorns|Bộ thu ấm cúng / pine sprigs, dried orange slices, cinnamon sticks, a mug of hot cocoa with marshmallows, a gingerbread cookie, a small kraft paper gift tied with twine|Bộ Giáng sinh Etsy}
 
 Style: warm natural window light, soft shadows, shallow depth of field, photorealistic cozy lifestyle product photography, Etsy-style. The embroidered design stays the clear focal point and remains faithful to the attached artwork.
 Keep the bottom-right corner of the frame as plain, empty background surface — no props, no fabric edges, no strong texture there.
