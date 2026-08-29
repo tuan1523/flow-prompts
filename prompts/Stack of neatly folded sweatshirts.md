@@ -27,4 +27,4 @@ LIGHT & CAMERA
 Soft natural window light from the left, gentle directional shadows, no harsh highlights or blown-out areas. 50mm lens at f/2.8, sweatshirts sharp, background softly blurred. Neutral white balance, muted true-to-life colors, natural contrast, no HDR, no heavy retouching. Square 1:1, the stack fills most of the frame, with clear margin at the bottom-right corner. Keep the bottom-right corner of the frame as plain, empty background surface — no props, no fabric edges, no strong texture there.
 
 AVOID
-Extra text, logos, watermarks, distorted or misspelled letters, cluttered props, plastic or 3D-render look, oversaturated colors, harsh flash, plastic-looking fabric, misfolded or messy stacks.
+Extra text, logos, watermarks, distorted or misspelled letters, cluttered props, plastic or 3D-render look, oversaturated colors, harsh flash, plastic-looking fabric, misfolded or messy stacks, yellow color cast, overly warm orange tone.

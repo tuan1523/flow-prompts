@@ -27,10 +27,10 @@ COMPOSITION — CLEAN & MINIMAL:
 — Props: {No props at all — only the sweatshirt and the clean surface.|Không đạo cụ (sạch nhất) / Two plain matte ceramic cups placed at the far left edge of the frame, partially cropped, blurred.|Hai cốc gốm mờ rìa trái / One small ceramic vase softly out of focus in the upper corner, nothing else.|Một bình gốm nhỏ góc trên / A single dried pampas stem lying at the edge of the frame, muted tone.|Một cành pampas khô / One folded neutral linen napkin under the upper-left corner of the sweatshirt.|Khăn linen góc trên trái / One small pine sprig and two dried orange slices at the far left edge, blurred.|Thông + cam sấy rìa trái}
 The sweatshirt is neatly folded, sleeves tucked, collar ribbing visible, fabric soft with gentle natural creases and light heather texture.
 
-LIGHTING: soft diffused natural window light from the upper left, warm neutral white balance, soft realistic shadows, no harsh highlights, no artificial studio flash.
+LIGHTING: soft diffused natural daylight from the upper left, neutral white balance, true-to-life colors, soft realistic shadows, no harsh highlights, no artificial studio flash.
 
 STYLE: high-end Etsy boutique lifestyle product photography, photorealistic, shallow depth of field on close-ups, calm neutral color palette, uncluttered negative space, the embroidery is the clear focal point.
 
 Keep the bottom-right corner of the frame visually quiet — plain background surface, or a softly blurred plain area on close-ups; no props, no strong texture there.
 
-NEGATIVE: no extra text, no logos, no watermarks, no hangers, no people, no busy props, no clutter, no distorted lettering, no misspelling, no cartoon flat-vector look, no plastic print or DTG look.
+NEGATIVE: no extra text, no logos, no watermarks, no hangers, no people, no busy props, no clutter, no distorted lettering, no misspelling, no cartoon flat-vector look, no plastic print or DTG look, no yellow color cast, no overly warm orange tone.

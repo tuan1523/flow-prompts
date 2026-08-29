@@ -24,5 +24,5 @@ Create a photorealistic flat-lay mockup of **one folded crewneck sweatshirt** _(
 
 **Scene & props (flat-lay on soft neutral linen):** a woven round placemat under the sweatshirt, plus a few cozy props: {tortoiseshell glasses, small potted succulent, lit candle, a couple of blurred polaroid family photos, ceramic dish|Bộ ấm cúng gia đình / pine sprigs, dried orange slices, a lit candle, a small kraft paper gift tied with twine|Bộ quà Giáng sinh}. Arrange them tastefully around the sweatshirt(s).
 
-Style: warm natural window light, soft shadows, shallow depth of field, photorealistic cozy lifestyle product photography, Etsy-style. The embroidered design stays the clear focal point and remains faithful to the attached artwork.
+Style: soft natural daylight, neutral white balance, true-to-life colors, no yellow or orange color cast, soft shadows, shallow depth of field, photorealistic cozy lifestyle product photography, Etsy-style. The embroidered design stays the clear focal point and remains faithful to the attached artwork.
 Keep the bottom-right corner of the frame as plain, empty background surface — no props, no fabric edges, no strong texture there.
