@@ -5,9 +5,10 @@ tags:
   - mockup
   - worn
   - closeup
-preview:
+preview: images/worn-mockup-closeup.jpg
 note: Đính kèm file design — thêu ngực áo, tay áo trơn hoàn toàn. Khung dọc 3:4 hoặc 9:16
 ---
+![[worn-mockup-closeup.jpg]]
 Photorealistic casual worn mockup: a person wearing a {crewneck sweatshirt / hoodie} in the chosen shirt color, with the attached design reproduced as real thread embroidery on the CENTER CHEST.
 
 — Shirt color: {red|Đỏ / orange|Cam / sand|Cát / beige|Be / white|Trắng / sport grey|Xám sport / black|Đen / grey|Xám / light pink|Hồng nhạt / light blue|Xanh nhạt / dark chocolate|Nâu sô-cô-la đậm / brown|Nâu / maroon|Đỏ mận / carolina blue|Xanh carolina / forest green|Xanh rêu / military green|Xanh quân đội / navy|Xanh than}
