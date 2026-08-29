@@ -36,6 +36,15 @@ light pink · dark chocolate · wash · grey · sand · black · beige · white
 
 **Khác Sweatshirt:** KHÔNG có red, orange, brown; CÓ THÊM wash, ash.
 
+## Nón dad cap washed (14 màu)
+
+orange · light grey · khaki · blue · burgundy · coffee · yellow · sky blue
+· black · green · pink · pumpkin · purple · white
+
+**Lưu ý:** tất cả đều là vải washed vintage — trong prompt luôn viết kèm
+"washed" (washed black, washed pink...). Tên xưởng "Witch" = purple,
+"Blue Sky" = sky blue.
+
 ## Màu có ở MỌI loại áo (an toàn tuyệt đối khi gen mockup đa loại)
 
 sand · beige · white · sport grey · black · grey · light pink · maroon
