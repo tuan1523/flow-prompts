@@ -4,9 +4,10 @@ tags:
   - embroidery
   - hat
   - mockup
-preview:
+preview: images/hat-mockup.jpg
 note: Đính kèm file design — thêu hai múi trước nón dad cap washed vintage. Khung vuông 1:1
 ---
+![[hat-mockup.jpg]]
 Photorealistic Etsy product mockup of {one washed cotton dad cap|Một nón / two washed cotton dad caps side by side, each in a different color|Hai nón cạnh nhau}, with the attached design reproduced as real thread embroidery on the front panels.
 
 — Hat color: {washed orange|Cam washed / washed light grey|Xám nhạt washed / washed khaki|Kaki washed / washed blue|Xanh biển washed / washed burgundy|Đỏ đô washed / washed coffee|Nâu cà phê washed / washed yellow|Vàng washed / washed sky blue|Xanh da trời washed / washed black|Đen washed / washed green|Xanh lá washed / washed pink|Hồng washed / washed pumpkin|Cam bí washed / washed purple|Tím washed / washed white|Trắng washed}
