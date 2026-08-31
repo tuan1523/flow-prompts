@@ -14,7 +14,12 @@ Photorealistic bright lifestyle mockup: a female model wearing an oversized {cre
 — Shirt color: {red|Đỏ / orange|Cam / sand|Cát / beige|Be / white|Trắng / sport grey|Xám sport / black|Đen / grey|Xám / light pink|Hồng nhạt / light blue|Xanh nhạt / dark chocolate|Nâu sô-cô-la đậm / brown|Nâu / maroon|Đỏ mận / carolina blue|Xanh carolina / forest green|Xanh rêu / military green|Xanh quân đội / navy|Xanh than}
 
 EMBROIDERY — 1:1 FAITHFUL COPY (highest priority):
-Treat the attached image as the EXACT embroidery pattern. Convert ONLY the surface into realistic stitched thread — raised satin stitch for lettering, dense fill stitch for shapes, visible individual thread strands, slight sheen, subtle needle-hole indentation. Reproduce every letter, word and spelling EXACTLY — same font, layout, spacing, proportions and thread colors as the artwork. Do not redraw, restyle or distort it. The embroidery bends naturally with the fabric folds but its geometry stays identical.
+Treat the attached image as the EXACT embroidery pattern. Convert ONLY the surface into real stitched thread with CLEARLY VISIBLE texture — this must read as embroidery even at a small size, never as a printed graphic:
+- Bold outlines and lettering = raised satin-stitch columns, domed and glossy, sitting visibly above the fill.
+- Interior color areas = dense tatami fill stitches, with the STITCH ANGLE ROTATED DIFFERENTLY in adjacent color blocks so light catches each block differently and the thread direction is clearly readable in every area.
+- Strong directional sheen on the polyester thread — some stitch rows bright, neighboring rows darker purely from thread direction.
+- Individual thread strands visible along edges and in the fills.
+Reproduce every letter, word and spelling EXACTLY — same font, layout, spacing, proportions and thread colors as the artwork. Do not redraw, restyle or distort it. The embroidery bends naturally with the fabric folds but its geometry stays identical.
 
 PLACEMENT & SIZE: positioned on the upper-center chest a few centimeters below the collar, {small — approx 10-12 cm wide, the modest size of real chest embroidery|Nhỏ (~10-12cm) / medium — approx 15-18 cm wide|Vừa (~15-18cm)}, fully visible, nothing cropped off. Sleeves, cuffs and collar completely plain.
 
@@ -33,4 +38,4 @@ Bright, airy, casual lifestyle photo like a top Etsy apparel shop — natural an
 
 LIGHT: bright soft natural daylight, neutral white balance, true-to-life colors, no yellow or orange color cast, gentle realistic shadows.
 
-NEGATIVE: no fully visible face — always cropped above the lips, turned away, or hidden by cap and sunglasses; no distorted face or hands, no sleeve or collar embroidery, no extra text or logos, no watermarks, no distorted lettering, no misspelling, no plastic print or DTG look, no fuzzy or pilled fabric, no flat uniform fabric color, no studio lighting, no oversaturated colors.
+NEGATIVE: no fully visible face — always cropped above the lips, turned away, or hidden by cap and sunglasses; no distorted face or hands, no sleeve or collar embroidery, no extra text or logos, no watermarks, no distorted lettering, no misspelling, no plastic print or DTG look, no flat 2D graphic or sticker pasted-on look, no smooth vector fills — every color area must show real thread direction and stitch texture, no fuzzy or pilled fabric, no flat uniform fabric color, no studio lighting, no oversaturated colors.
