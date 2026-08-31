@@ -9,7 +9,7 @@ preview: images/worn-model-lifestyle.jpg
 note: Đính kèm file design — thêu giữa ngực, người mẫu sáng thoáng kiểu lifestyle, mặt không bao giờ lộ trọn. Khung dọc 3:4
 ---
 ![[worn-model-lifestyle.jpg]]
-Photorealistic bright lifestyle mockup: a female model wearing an oversized {crewneck sweatshirt / hoodie / t-shirt} in the chosen shirt color, with the attached design reproduced as real thread embroidery on the CENTER CHEST.
+Photorealistic bright lifestyle mockup: a female model wearing an oversized {crewneck sweatshirt / hoodie / t-shirt} in the chosen shirt color, with the attached design reproduced as a SMALL patch of real thread embroidery on the center chest — the design spans only about ONE THIRD of the chest width, never larger.
 
 — Shirt color: {red|Đỏ / orange|Cam / sand|Cát / beige|Be / white|Trắng / sport grey|Xám sport / black|Đen / grey|Xám / light pink|Hồng nhạt / light blue|Xanh nhạt / dark chocolate|Nâu sô-cô-la đậm / brown|Nâu / maroon|Đỏ mận / carolina blue|Xanh carolina / forest green|Xanh rêu / military green|Xanh quân đội / navy|Xanh than}
 
@@ -19,9 +19,9 @@ Treat the attached image as the EXACT embroidery pattern. Convert ONLY the surfa
 - Interior color areas = dense tatami fill stitches, with the STITCH ANGLE ROTATED DIFFERENTLY in adjacent color blocks so light catches each block differently and the thread direction is clearly readable in every area.
 - Strong directional sheen on the polyester thread — some stitch rows bright, neighboring rows darker purely from thread direction.
 - Individual thread strands visible along edges and in the fills.
-Reproduce every letter, word and spelling EXACTLY — same font, layout, spacing, proportions and thread colors as the artwork. Do not redraw, restyle or distort it. The embroidery bends naturally with the fabric folds but its geometry stays identical.
+Reproduce every letter, word and spelling EXACTLY — same font, layout, spacing, proportions and thread colors as the artwork. Do not redraw, restyle or distort it. EXACT means the same shapes, layout and colors — but the SURFACE must be re-rendered as 100% stitched thread: never paste the artwork's flat pixels onto the garment, every single area is rebuilt from visible stitches. The embroidery bends naturally with the fabric folds but its geometry stays identical.
 
-PLACEMENT & SIZE: positioned on the upper-center chest a few centimeters below the collar, {small — approx 10-12 cm wide, the modest size of real chest embroidery|Nhỏ (~10-12cm) / medium — approx 15-18 cm wide|Vừa (~15-18cm)}, fully visible, nothing cropped off. Sleeves, cuffs and collar completely plain.
+PLACEMENT & SIZE: positioned on the upper-center chest a few centimeters below the collar, {small — approx 10-12 cm wide, only about one third of the chest width, the modest size of real chest embroidery|Nhỏ (~10-12cm) / medium — approx 15-18 cm wide, about half the chest width|Vừa (~15-18cm)}, fully visible, nothing cropped off. Sleeves, cuffs and collar completely plain.
 
 PHYSICAL STITCH REALISM: the embroidery sits slightly proud of the fabric and casts a soft contact shadow around the stitched block — slight natural fabric puckering right at the edges of the design, tiny needle holes along the stitch borders, the fleece dimpling just a little around the densest areas. Keep the effect gentle and realistic: the design looks sewn into the garment, not pressed deep into it, and the fabric further away from the stitches stays undisturbed.
 
@@ -38,4 +38,4 @@ Bright, airy, casual lifestyle photo like a top Etsy apparel shop — natural an
 
 LIGHT: bright soft natural daylight, neutral white balance, true-to-life colors, no yellow or orange color cast, gentle realistic shadows.
 
-NEGATIVE: no fully visible face — always cropped above the lips, turned away, or hidden by cap and sunglasses; no distorted face or hands, no sleeve or collar embroidery, no extra text or logos, no watermarks, no distorted lettering, no misspelling, no plastic print or DTG look, no flat 2D graphic or sticker pasted-on look, no smooth vector fills — every color area must show real thread direction and stitch texture, no fuzzy or pilled fabric, no flat uniform fabric color, no studio lighting, no oversaturated colors.
+NEGATIVE: no fully visible face — always cropped above the lips, turned away, or hidden by cap and sunglasses; no distorted face or hands, no sleeve or collar embroidery, no extra text or logos, no watermarks, no distorted lettering, no misspelling, no plastic print or DTG look, no flat 2D graphic or sticker pasted-on look, no smooth vector fills — every color area must show real thread direction and stitch texture, no fuzzy or pilled fabric, no flat uniform fabric color, no studio lighting, no oversaturated colors, no oversized design — the embroidery never spans more than one third of the chest width.
