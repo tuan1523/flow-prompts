@@ -36,6 +36,6 @@ Smooth fine-knit cotton fleece with a soft matte surface — tight even weave, t
 CAMERA REALISM:
 Bright, airy, casual lifestyle photo like a top Etsy apparel shop — natural and candid, slightly imperfect framing, NOT stiff studio posing, NOT airbrushed. Vertical portrait orientation.
 
-LIGHT: bright soft natural daylight, neutral white balance, true-to-life colors, no yellow or orange color cast, gentle realistic shadows.
+LIGHT: bright natural daylight overall, neutral white balance, true-to-life colors, no yellow or orange color cast — with one clear DIRECTIONAL component: window light raking across the chest at a slight side angle, so the raised stitch rows catch the light on one side and cast tiny micro-shadows on the other, making the embroidery read as a true relief surface standing off the fabric. Gentle realistic shadows elsewhere, the rest of the scene stays bright and airy.
 
 NEGATIVE: no fully visible face — always cropped above the lips, turned away, or hidden by cap and sunglasses; no distorted face or hands, no sleeve or collar embroidery, no extra text or logos, no watermarks, no distorted lettering, no misspelling, no plastic print or DTG look, no flat 2D graphic or sticker pasted-on look, no smooth vector fills — every color area must show real thread direction and stitch texture, no fuzzy or pilled fabric, no flat uniform fabric color, no studio lighting, no oversaturated colors, no oversized design — the embroidery never spans more than one third of the chest width.
