@@ -97,6 +97,19 @@ for (const file of files.sort()) {
     .map((m) => m[1].split("/").map((s) => s.trim()).filter(Boolean))
     .filter((opts) => opts.length > 1);
 
+  // Gác cổng: phát hiện lựa chọn bị cắt vụn do dấu "/" lạc trong nhãn/giá trị
+  // (dấu hiệu: ngoặc tròn mở/đóng lệch nhau, hoặc giá trị quá ngắn vô nghĩa)
+  for (const opts of variables) {
+    for (const opt of opts) {
+      const open = (opt.match(/\(/g) || []).length;
+      const close = (opt.match(/\)/g) || []).length;
+      const value = opt.split("|")[0].trim();
+      if (open !== close || value.length < 2) {
+        errors.push(`${file}: lựa chọn khả nghi "${opt}" — nhãn/giá trị có thể bị cắt bởi dấu "/" lạc`);
+      }
+    }
+  }
+
   prompts.push({
     id: basename(file, ".md"),
     name,
