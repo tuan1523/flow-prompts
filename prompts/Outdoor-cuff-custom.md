@@ -5,9 +5,10 @@ tags:
   - mockup
   - outdoor
   - personalized
-preview:
+preview: images/outdoor-cuff-custom.jpg
 note: Đính kèm design cho ngực áo. Sau khi điền, SỬA "YOUR TEXT HERE" thành chữ khách đặt ở bo tay (ví dụ future Mrs. Smith). Khung dọc 3:4
 ---
+![[outdoor-cuff-custom.jpg]]
 Photorealistic outdoor product mockup of a folded {crewneck sweatshirt|Sweatshirt cổ tròn / hoodie|Hoodie} in the chosen shirt color, with the attached design reproduced as real thread embroidery on the center chest, and a custom embroidered text on the folded sleeve cuff.
 
 — Shirt color: {red|Đỏ / orange|Cam / sand|Cát / beige|Be / white|Trắng / sport grey|Xám sport / black|Đen / grey|Xám / light pink|Hồng nhạt / light blue|Xanh nhạt / dark chocolate|Nâu sô-cô-la đậm / brown|Nâu / maroon|Đỏ mận / carolina blue|Xanh carolina / forest green|Xanh rêu / military green|Xanh quân đội / navy|Xanh than}
