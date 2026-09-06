@@ -12,7 +12,7 @@ note: Dùng kèm file design PNG nền trong suốt, đính kèm thủ công và
 
 Create a photorealistic mockup of a cozy folded {crewneck sweatshirt / Hoodie / Quarter zip} with the attached design shown as real thread embroidery on the chest.
 
-Treat the attached image as the EXACT embroidery pattern to reproduce stitch-for-stitch. Convert ONLY the surface into real stitched thread with CLEARLY VISIBLE texture — this must read as embroidery, never as a printed graphic:
+Treat the attached image as the EXACT embroidery pattern to reproduce stitch-for-stitch. If the attached image is a photo of the design already on a garment, extract ONLY the design artwork itself — completely IGNORE everything else in the attachment: the garment, its color, its placement and rotation, the camera angle, the surface, the props and the lighting of the attached photo. The composition, colors and angles of the NEW image are defined solely by this prompt, never copied from the attachment. Convert ONLY the surface into real stitched thread with CLEARLY VISIBLE texture — this must read as embroidery, never as a printed graphic:
 - Bold outlines and lettering = raised satin-stitch columns, domed and glossy, sitting visibly above the fill.
 - Interior color areas = dense tatami fill stitches, with the STITCH ANGLE ROTATED DIFFERENTLY in adjacent color blocks so light catches each block differently and the thread direction is clearly readable.
 - Strong directional sheen on the polyester thread — some stitch rows bright, neighboring rows darker purely from thread direction.
