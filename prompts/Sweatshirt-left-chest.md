@@ -26,7 +26,9 @@ Randomize everything AROUND the design so each result looks different (pick one 
 — Sweatshirt color: {red|Đỏ / orange|Cam / sand|Cát / beige|Be / white|Trắng / sport grey|Xám sport / black|Đen / grey|Xám / light pink|Hồng nhạt / light blue|Xanh nhạt / dark chocolate|Nâu sô-cô-la đậm / brown|Nâu / maroon|Đỏ mận / carolina blue|Xanh carolina / forest green|Xanh rêu / military green|Xanh quân đội / navy|Xanh than}  
 — Camera distance: {close-up showing thread texture|Cận cảnh thấy sợi chỉ / medium folded flat-lay|Trung cảnh gấp flat-lay / wider styled scene with props|Toàn cảnh có đạo cụ}  
 — Surface & scene: {rustic wood table|Bàn gỗ mộc / linen cloth|Vải linen / lace doily|Khăn ren}  
-— Props (a few, cozy seasonal): {vintage books, brass compass, pinecones, small pumpkins, lit candle, ceramic mug, felt hat, dried flowers, acorns}
+— Props (a few, cozy seasonal): {ONLY two or three of these, never more: vintage books, brass compass, pinecones, small pumpkins, lit candle, ceramic mug, felt hat, dried flowers, acorns}
+
+PROPS LIMIT (hard rule): the scene contains at most TWO or THREE small props in total — the list above is a menu to pick from, NEVER a checklist to show completely. Props sit only near the frame edges, softly blurred, with generous clean empty surface around the garment; never props crowding all four sides.
 
 Style: soft natural daylight, neutral white balance, true-to-life colors, no yellow or orange color cast, soft shadows, shallow depth of field, photorealistic cozy lifestyle product photography, Etsy-style. The embroidered design stays the clear focal point (even though small) and remains faithful to the attached artwork.
 Keep the bottom-right corner of the frame as plain, empty background surface — no props, no fabric edges, no strong texture there.
