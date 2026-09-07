@@ -29,8 +29,8 @@ Extreme metal band logo lettering, hand-drawn style:
 - Despite the thorns, the words MUST remain clearly READABLE
 
 ═══ GARMENT COLOR & THREAD — THE KEY DETAIL ═══
-— Màu áo: {washed black fleece with dark charcoal grey thread|Đen washed / navy fleece with lighter slate blue-grey thread|Xanh than / forest green fleece with lighter muted moss-green thread|Xanh rêu / military green fleece with lighter soft olive thread|Xanh quân đội / dark chocolate fleece with lighter warm cocoa-brown thread|Nâu sô-cô-la đậm / brown fleece with lighter warm tan thread|Nâu / maroon fleece with lighter dusty-rose burgundy thread|Đỏ mận / grey fleece with lighter silver-grey thread|Xám}
-TONAL RULE: the thread is always the SAME HUE as the garment, ONE OR TWO SHADES LIGHTER — tonal and subtle, but the lettering reads clearly against the fabric. NEVER thread in the exact same shade as the fabric, never a contrasting color.
+— Màu áo: {washed black fleece with very dark charcoal thread only a touch lighter than the fabric|Đen washed / navy fleece with deep navy thread only a touch lighter than the fabric|Xanh than / forest green fleece with deep forest-green thread only a touch lighter than the fabric|Xanh rêu / military green fleece with deep olive thread only a touch lighter than the fabric|Xanh quân đội / dark chocolate fleece with deep cocoa thread only a touch lighter than the fabric|Nâu sô-cô-la đậm / brown fleece with warm brown thread only a touch lighter than the fabric|Nâu / maroon fleece with deep burgundy thread only a touch lighter than the fabric|Đỏ mận / grey fleece with grey thread only a touch lighter than the fabric|Xám}
+TONAL RULE (critical): the thread is the SAME HUE as the garment and only SLIGHTLY lighter — about 10-15% lighter, a subtle low-contrast difference. From arm's length the garment looks almost plain: the lettering reveals itself mainly through its RAISED RELIEF, the raking side light and the thread's sheen — the small color difference only assists. NEVER a pale, bright or high-contrast thread that jumps out from the fabric, never more than a shade or two lighter, and never the exact same shade (invisible).
 
 ═══ EMBROIDERY RENDERING ═══
 Every stroke is a raised satin-stitch column, domed and slightly glossy, sitting
@@ -74,7 +74,9 @@ Shallow depth of field. Square 1:1.
 The Góc chụp, Cự ly and Tông màu choices are FINAL — they override anything implied by the scene description. If more than one Góc chụp option is still listed, use the 20-30 degree elevated view; if more than one Tông màu option is still listed, use the neutral one. The raking window light from the LEFT always stays, in every scene and tone.
 
 NEGATIVE: flat 2D graphic, sticker pasted on, printed or DTG look, smooth vector fills,
-thread in the exact same shade as the fabric, contrasting thread color, invisible lettering,
+thread in the exact same shade as the fabric, contrasting thread color, pale or bright thread
+that pops out from the fabric, thread more than a shade or two lighter than the garment,
+two-tone look, invisible lettering,
 flat diffuse lighting on the chest, white background, white fur, hairline-thin spikes,
 misspelled or distorted letters, watermarks, more than three props, cluttered scene,
 rotated or diagonal garment beyond the small candid rotation when that angle is chosen,
