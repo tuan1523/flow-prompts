@@ -6,10 +6,9 @@ tags:
   - tonal
   - metal
 preview:
-note: Không cần đính design — model tự vẽ chữ kiểu metal. Sau khi điền, SỬA [LINE1] và [LINE2] thành 2 dòng chữ khách đặt. Khung vuông 1:1
+note: Không cần đính design — model tự vẽ chữ metal. Sau khi điền, SỬA [LINE1] và [LINE2] thành 2 dòng chữ khách đặt. Màu chỉ tự đi theo màu áo, sáng hơn 1-2 nấc. Khung vuông 1:1
 ---
-Create a photorealistic Etsy-style product mockup of a folded crewneck sweatshirt
-with tonal embroidery on the chest.
+Create a photorealistic Etsy-style product mockup of a folded {crewneck sweatshirt|Sweatshirt cổ tròn / hoodie|Hoodie / quarter zip sweatshirt|Quarter zip} with tonal embroidery on the chest.
 
 ═══ THE TEXT — CHANGE ONLY THIS ═══
 Line 1: [LINE1]
@@ -29,10 +28,9 @@ Extreme metal band logo lettering, hand-drawn style:
 - Irregular baseline — letters vary slightly in height and tilt
 - Despite the thorns, the words MUST remain clearly READABLE
 
-═══ THREAD COLOR — THE KEY DETAIL ═══
-Dark charcoal grey thread on a washed black fleece garment — the thread is ONE OR TWO
-SHADES LIGHTER than the fabric. Tonal and subtle, but the lettering reads clearly
-against the fabric. NOT pure black on pure black.
+═══ GARMENT COLOR & THREAD — THE KEY DETAIL ═══
+— Màu áo: {washed black fleece with dark charcoal grey thread|Đen washed / navy fleece with lighter slate blue-grey thread|Xanh than / forest green fleece with lighter muted moss-green thread|Xanh rêu / military green fleece with lighter soft olive thread|Xanh quân đội / dark chocolate fleece with lighter warm cocoa-brown thread|Nâu sô-cô-la đậm / brown fleece with lighter warm tan thread|Nâu / maroon fleece with lighter dusty-rose burgundy thread|Đỏ mận / grey fleece with lighter silver-grey thread|Xám}
+TONAL RULE: the thread is always the SAME HUE as the garment, ONE OR TWO SHADES LIGHTER — tonal and subtle, but the lettering reads clearly against the fabric. NEVER thread in the exact same shade as the fabric, never a contrasting color.
 
 ═══ EMBROIDERY RENDERING ═══
 Every stroke is a raised satin-stitch column, domed and slightly glossy, sitting
@@ -47,34 +45,37 @@ the borders. Sewn into the garment, never pressed into it, never printed.
 ═══ PLACEMENT & SIZE ═══
 The design sits high on the chest, its top edge 5-7 cm below the collar ribbing,
 entirely within the upper half of the garment, lower half plain.
-About 24 cm wide, roughly 45% of the garment width, fully visible, nothing cropped.
+Size: {compact — approx 18-22 cm wide, about one third of the garment width|Gọn (~33% ngang áo) / standard — approx 24-28 cm wide, about 45% of the garment width|Chuẩn (~45% ngang áo) / wide — approx 28-32 cm wide, about 55% of the garment width|Bản rộng (~55% ngang áo)}, fully visible, nothing cropped.
 
 ═══ GARMENT ═══
-Washed black crewneck sweatshirt, smooth fine-knit cotton fleece, soft matte surface,
+Smooth fine-knit cotton fleece in the chosen garment color, soft matte surface,
 not fuzzy. Gentle tonal variation — slightly lighter where light hits, deeper in the
-folds, never one flat block of color. Folded with the sleeves wrapped around to the
-front, ribbed cuffs naturally visible at the lower corners.
+folds, never one flat block of color.
+— Kiểu gấp: {folded with the sleeves wrapped around to the front, ribbed cuffs naturally visible at the lower corners|Có tay áo (lộ bo tay) / folded into a clean neat rectangle with the sleeves tucked completely behind — no sleeves or cuffs visible, only the front panel|Không tay áo (gấp giấu tay)}
 
 ═══ SCENE ═══
-The sweatshirt rests on a warm tan suede ottoman. A window on the LEFT provides soft
-directional daylight that rakes gently across the chest, so each stitched stroke
-catches a highlight on its left edge and casts a shadow on its right.
-Background, softly blurred: a terracotta potted plant on the windowsill, and a stack
-of vintage hardcover books on a wooden side table at the upper right.
-Nothing else. Generous clean empty space around the garment.
+— Bối cảnh: {the sweatshirt rests on a warm tan suede ottoman beside the window|Ottoman da lộn nâu / on a warm oak wood table|Bàn gỗ sồi / on a chunky cream knit blanket|Chăn len kem / on a cream woven placemat over a white cloth|Khăn dệt kem}
+— Đạo cụ: {ONLY two or three of these, never more: vintage books, brass compass, pinecones, small pumpkins, lit candle, ceramic mug, terracotta potted plant, dried flowers, acorns|Bộ thu ấm cúng / ONLY two or three of these, never more: pine sprigs, dried orange slices, cinnamon sticks, a mug of hot cocoa, a small kraft paper gift tied with twine|Bộ Giáng sinh Etsy / a ceramic jack-o-lantern pumpkin mug holding dried autumn leaves, a dark red candle on a wooden holder, a small wicker pumpkin — two or three of these at the upper-left, softly blurred|Bộ Halloween / two or three real-world objects that directly match the theme of the embroidered text, placed near the upper-left corner, softly blurred, in muted tones that complement the garment|Đạo cụ theo chủ đề}
+PROPS LIMIT (hard rule): at most TWO or THREE small props in total — the list is a menu to pick from, NEVER a checklist to show completely. Props sit near the frame edges, softly blurred, with generous clean empty space around the garment.
+
+═══ LIGHT — FIXED, CRITICAL FOR TONAL ═══
+A window on the LEFT provides soft directional daylight that rakes gently across the
+chest, so each stitched stroke catches a highlight on its left edge and casts a shadow
+on its right. This raking side light is what makes the tonal lettering readable —
+never flat diffuse lighting on the chest.
 
 ═══ CAMERA ═══
-Slightly elevated frontal view, about 20-30 degrees above the garment, looking straight
-at the chest. The sweatshirt's vertical axis parallel to the frame edges, the lettering
-perfectly horizontal, never slanted. The chest panel faces the camera square-on,
-never foreshortened. Medium distance showing the whole folded garment.
+— Góc chụp: {slightly elevated frontal view, about 20-30 degrees above the garment, looking straight at the chest — the chest panel faces the camera square-on, never foreshortened, the sweatshirt's vertical axis parallel to the frame edges, the lettering perfectly horizontal|Chếch 20-30° / a straight overhead shot — the camera almost directly above the flat-lying garment, the garment laid perfectly square to the frame, collar at the top, the lettering perfectly horizontal, the surface filling nearly the whole frame|Chụp thẳng từ trên / a near-overhead candid shot — the camera almost directly above, the garment laid with a slight natural rotation of only about 5-10 degrees, relaxed hand-placed styling, the lettering only gently off-horizontal, never steeply slanted|Áo hơi xoay nhẹ (candid)}
+— Cự ly: {close-up on the chest so the thread texture and every spike are clearly visible, the lettering filling most of the frame|Cận cảnh thấy sợi chỉ / medium distance showing the whole folded garment|Trung cảnh thấy cả áo / wider styled scene with the props visible around the garment|Toàn cảnh có đạo cụ}
 Shallow depth of field. Square 1:1.
 
-═══ COLOR ═══
-Neutral white balance, true-to-life colors, no yellow or orange cast.
+═══ TÔNG MÀU ═══
+— Tông màu: {crisp neutral white balance — true-to-life colors, whites stay pure white, no yellow or orange cast anywhere|Trung tính (chuẩn màu) / a gentle golden-warm glow washed over the whole image, like late-afternoon autumn sun through a window — whites shift to soft cream, highlights glow warm amber, the mood cozy and inviting; keep it a delicate warm veil only: never heavy orange, never muddy or dim, the garment color still clearly recognizable|Ám vàng ấm tự nhiên}
+The Góc chụp, Cự ly and Tông màu choices are FINAL — they override anything implied by the scene description. If more than one Góc chụp option is still listed, use the 20-30 degree elevated view; if more than one Tông màu option is still listed, use the neutral one. The raking window light from the LEFT always stays, in every scene and tone.
 
 NEGATIVE: flat 2D graphic, sticker pasted on, printed or DTG look, smooth vector fills,
-pure black thread on black fabric, invisible lettering, flat diffuse lighting,
-white background, white fur, hairline-thin spikes, misspelled or distorted letters,
-watermarks, more than three props, cluttered scene, rotated or diagonal garment,
+thread in the exact same shade as the fabric, contrasting thread color, invisible lettering,
+flat diffuse lighting on the chest, white background, white fur, hairline-thin spikes,
+misspelled or distorted letters, watermarks, more than three props, cluttered scene,
+rotated or diagonal garment beyond the small candid rotation when that angle is chosen,
 skewed perspective, embossed leather, debossed.
