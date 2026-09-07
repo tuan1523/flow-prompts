@@ -17,22 +17,19 @@ Two stacked lines, centered, line 2 slightly wider than line 1.
 Spell every letter EXACTLY as written above. Do not add, drop or change any letter.
 
 ═══ THE LETTERING STYLE ═══
-Clean dark gothic blackletter lettering, like a metal band logo refined for apparel:
-- Thick angular blackletter letterforms with sharp pointed serifs, high contrast
-  between heavy stems and thin strokes
-- A FEW short controlled spikes on the first and last letter of each line only,
-  framing the logo — short and deliberate, never a tangle of thorns
-- Letters clearly SEPARATED with even spacing — they NEVER overlap or cross,
-  a steady baseline, both lines centered
-- READABILITY FIRST: every word instantly legible at a glance
-The brackets [ ] around the text above are placeholder markers only — NEVER embroider
-bracket characters, and never embroider the literal words LINE1 or LINE2.
-
-— Điểm nhấn: {text only, nothing else embroidered|Chỉ chữ (thuần tonal) / one slim antique-gold dagger embroidered vertically through the center of the text, its ornate hilt sitting between the two lines, plus two or three tiny antique-gold dragon silhouettes scattered around the lettering — these metallic golden-thread accents are the ONLY contrasting elements, small and elegant, everything else stays tonal|Kèm dao găm + rồng vàng}
+Extreme metal band logo lettering, hand-drawn style:
+- Thick angular letterforms with high contrast between heavy stems and thin strokes
+- Sharp pointed THORN SPIKES growing outward from the tops and bases of the stems,
+  tapering to fine points
+- On the FIRST and LAST letter of each line, the spikes extend further outward and
+  symmetrically, like wings, framing the whole logo
+- A few short DRIPS hanging from the bases of some letters
+- Letters slightly overlapping, with spikes crossing over neighboring letters
+- Irregular baseline — letters vary slightly in height and tilt
+- Despite the thorns, the words MUST remain clearly READABLE
 
 ═══ GARMENT COLOR & THREAD — THE KEY DETAIL ═══
 — Màu áo: {washed black fleece with very dark charcoal thread only a touch lighter than the fabric|Đen washed / navy fleece with deep navy thread only a touch lighter than the fabric|Xanh than / forest green fleece with deep forest-green thread only a touch lighter than the fabric|Xanh rêu / military green fleece with deep olive thread only a touch lighter than the fabric|Xanh quân đội / dark chocolate fleece with deep cocoa thread only a touch lighter than the fabric|Nâu sô-cô-la đậm / brown fleece with warm brown thread only a touch lighter than the fabric|Nâu / maroon fleece with deep burgundy thread only a touch lighter than the fabric|Đỏ mận / grey fleece with grey thread only a touch lighter than the fabric|Xám}
-PAIR RULE (critical): each option above is ONE inseparable pair — a garment color WITH its matching thread. Never mix the fleece color of one option with the thread of another: a black garment always gets the charcoal thread, never green or any other hue. If more than one option is still listed above, pick exactly ONE pair as a whole; when in doubt use the washed black pair.
 TONAL RULE (critical): the thread is the SAME HUE as the garment and only SLIGHTLY lighter — about 10-15% lighter, a subtle low-contrast difference. From arm's length the garment looks almost plain: the lettering reveals itself mainly through its RAISED RELIEF, the raking side light and the thread's sheen — the small color difference only assists. NEVER a pale, bright or high-contrast thread that jumps out from the fabric, never more than a shade or two lighter, and never the exact same shade (invisible).
 
 ═══ EMBROIDERY RENDERING ═══
@@ -48,7 +45,7 @@ the borders. Sewn into the garment, never pressed into it, never printed.
 ═══ PLACEMENT & SIZE ═══
 The design sits high on the chest, its top edge 5-7 cm below the collar ribbing,
 entirely within the upper half of the garment, lower half plain.
-Size: {compact — approx 18-22 cm wide, about one third of the garment width|Gọn (~33% ngang áo) / standard — approx 24-28 cm wide, about 45% of the garment width|Chuẩn (~45% ngang áo) / wide — approx 28-32 cm wide, about 55% of the garment width|Bản rộng (~55% ngang áo)}, fully visible, nothing cropped. If more than one size option is still listed, use the standard ~45% size — never larger.
+Size: {compact — approx 18-22 cm wide, about one third of the garment width|Gọn (~33% ngang áo) / standard — approx 24-28 cm wide, about 45% of the garment width|Chuẩn (~45% ngang áo) / wide — approx 28-32 cm wide, about 55% of the garment width|Bản rộng (~55% ngang áo)}, fully visible, nothing cropped.
 
 ═══ GARMENT ═══
 Smooth fine-knit cotton fleece in the chosen garment color, soft matte surface,
@@ -80,9 +77,6 @@ NEGATIVE: flat 2D graphic, sticker pasted on, printed or DTG look, smooth vector
 thread in the exact same shade as the fabric, contrasting thread color, pale or bright thread
 that pops out from the fabric, thread more than a shade or two lighter than the garment,
 two-tone look, invisible lettering,
-bracket characters embroidered, the literal words LINE1 or LINE2 embroidered,
-tangled or overlapping letters, spikes crossing over letters, unreadable lettering,
-thread color taken from a different garment option than the fleece,
 flat diffuse lighting on the chest, white background, white fur, hairline-thin spikes,
 misspelled or distorted letters, watermarks, more than three props, cluttered scene,
 rotated or diagonal garment beyond the small candid rotation when that angle is chosen,
