@@ -5,9 +5,10 @@ tags:
   - sweatshirt
   - gingham
   - etsy
-preview:
+preview: images/gingham-mock-neck-sweatshirt.png
 note: Dùng kèm file design PNG nền trong suốt, đính kèm thủ công vào Flow. Áo nỉ có cổ mock neck, bo tay và bo gấu bằng vải caro gingham, thêu giữa ngực. 7 phối màu theo bảng màu kho
 ---
+![[gingham-mock-neck-sweatshirt.png]]
 Create a photorealistic mockup of a cozy GINGHAM MOCK NECK SWEATSHIRT with the attached design shown as real thread embroidery on the chest.
 
 THE GARMENT — GINGHAM MOCK NECK SWEATSHIRT (must be clearly recognizable):
