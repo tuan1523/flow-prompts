@@ -7,9 +7,10 @@ tags:
   - closeup
   - lifestyle
   - folded
-preview:
+preview: images/folded-sweatshirt-closeup-lifestyle.jpg
 note: Đính kèm file design PNG nền trong suốt. Áo gấp đặt xéo, góc chụp chéo ~40°, hình thêu chiếm ~70% khung, xóa phông nhẹ, đạo cụ mờ ở góc, khung vuông 1:1. Design có chữ thì thêm dòng Text must read exactly "…" ở cuối. Chọn "Tay cầm ngoài vườn" ở mục Scene để ra kiểu ảnh cầm áo ngoài trời.
 ---
+![[folded-sweatshirt-closeup-lifestyle.jpg]]
 Close-up lifestyle product photo of a folded crewneck sweatshirt featuring the EXACT embroidery design from the attached reference image, reproduced faithfully — same artwork, text, spelling, colors and layout. Do not alter, add or remove any design elements. The attachment is only a stitch map: rebuild every part of the design from thread, never transfer its pixels onto the fabric.
 
 GARMENT: {cream / natural sand|Kem / sand / forest green|Xanh rêu đậm / military green|Xanh lính / dark chocolate brown|Nâu chocolate / light blue|Xanh nhạt / heather grey|Xám melange / black|Đen} heavyweight cotton-poly fleece crewneck sweatshirt, neatly folded, lying slightly diagonal. Ribbed crew collar visible and partially cropped at the top edge of the frame; one sleeve folded across the lower-right corner showing the ribbed cuff with double-needle stitching.
